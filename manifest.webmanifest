@@ -3,11 +3,18 @@
   "short_name": "Repertorio Clarinete",
   "description": "Biblioteca de repertorio orquestral para clarinete, clarinete baixo e requinto.",
   "lang": "gl",
+  "id": "./",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
+  "orientation": "any",
   "background_color": "#f3f6f8",
   "theme_color": "#15384f",
+  "categories": [
+    "education",
+    "reference",
+    "music"
+  ],
   "icons": [
     {
       "src": "./icon.svg",
