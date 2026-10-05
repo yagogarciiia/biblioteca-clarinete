@@ -25,7 +25,7 @@ A web está preparada como PWA. En iPad:
 
 A interface e o contido integrado poden abrirse sen conexión unha vez cargados. Os recursos externos (YouTube, IMSLP, Apple Music, PDFs de terceiros, etc.) requiren conexión.
 
-As anotacións persoais utilízanse mediante localStorage e **non se publican en GitHub**. A biblioteca permite exportalas/importalas en JSON.
+As anotacións persoais utilízanse mediante localStorage e **non se publican en GitHub**. A biblioteca permite exportalas/importalas en JSON. O sitio inclúe ademais `noindex` e `robots.txt` para desaconsellar a indexación en buscadores; isto non substitúe a privacidade dunha web pública.
 
 ## GitHub Pages
 
@@ -37,4 +37,4 @@ Para a primeira publicación: Settings → Pages → Build and deployment → De
 
 ## Versión
 
-v1.4 · GitHub Pages/PWA integrada.
+v1.4.1 · GitHub Pages/PWA integrada.
