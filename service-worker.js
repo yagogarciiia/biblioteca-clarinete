@@ -1,4 +1,4 @@
-const CACHE = 'biblioteca-clarinete-v1.4.1';
+const CACHE = 'biblioteca-clarinete-v1.4.2';
 const APP_SHELL = [
   './',
   './index.html',
